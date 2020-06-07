@@ -6,7 +6,7 @@ This repository contains sample code on how to do error handling with the Node.j
 
 This repository is part of the [Error Handling in express](https://youtu.be/DyqVqaf1KnA) tutorial provided by [productioncoder.com](https://productioncoder.com/).
 
-[![Error Handling in express](images/error-handling-in-express.png)](https://www.youtube.com/watch?v=bvQah0k5-eA&list=PL1Nml43UBm6fPP7cW9pAFTdZ_9QX2mBn2&index=2)
+[![Error Handling in express](images/error-handling-in-express.png)](https://youtu.be/DyqVqaf1KnA)
 
 For updates, please reach out to [@productioncoder](https://twitter.com/productioncoder) on Twitter.
 
@@ -15,7 +15,9 @@ For updates, please reach out to [@productioncoder](https://twitter.com/producti
 This repository illustrates how to handle expected errors in a DRY way in express and how to not expose any internal structure in case of unexpected errors.
 
 ## Running this project
+
 Run
+
 ```
 npm install
 ```
@@ -29,8 +31,11 @@ npm run dev
 ```
 
 ## API
+
 ### POST /tweet
+
 Expected payload
+
 ```
 {
     "msg": "my tweet message"
