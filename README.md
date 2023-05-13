@@ -8,7 +8,7 @@ This repository is part of the [Error Handling in express](https://youtu.be/DyqV
 
 [![Error Handling in express](images/error-handling-in-express.png)](https://youtu.be/DyqVqaf1KnA)
 
-For updates, please reach out to [@productioncoder](https://twitter.com/productioncoder) on Twitter.
+For updates, please reach out to [@_jgoebel](https://twitter.com/_jgoebel) on Twitter.
 
 ## Session implementation with express.js and express-session
 
